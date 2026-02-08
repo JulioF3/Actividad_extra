@@ -1,0 +1,20 @@
+Unidad 1 Resumen
+
+El sistema binario
+Es el sistema que utilizan las computadoras para procesar las instrucciones que ingresamos en código, este se representa con 0s y 1s.
+
+Para convertir los números decimales a binarios tenemos 2 opciones: la primera es dividir el número en 2 repetidamente utilizando el cociente hasta que no se pueda dividir y el residuo es el número binario; la segunda forma es con la tabla de potencia de 2, en donde colocamos la potencia de 2 sin pasarnos del número que requerido y restandolo con la potencia, si se puede entonces se coloca un 1 y si no se coloca el 0.
+
+Si queremos convertir de binario a decimal con la misma tabla multiplicamos el binario con la potencia y sumamos el resultado, eso nos tendría que dar el decimal.
+
+Lógica
+Enunciados: Son frases cualquiera que tienen la característica de ser verdaderas o falsas.
+Veracidad condicional: Es un enunciado el cual su veracidad depende del contexto que se le de ejemplo. El cielo es azul (depende si esta nublado o no).
+
+Las proposiciones: Son enunciados que pueden ser verdaderos o falsos y que se puede realizar operaciones que pueden cambiar su valor, pueden ser:
+Conjunción: Cuando nos interesa que todos sean verdaderos, el resultado es verdadero solo si lo que lo componen son verdaderos y se representa con && o Y.
+Disyunción: Es verdadero si al menos uno es verdadero, se representa con || y O.
+Negación: Invierte el valor de una proposición, se representa con ! o ¬.
+
+Algoritmo
+Son secuencias de instrucciones que se usan para plantear la solución de un problema, deben de tener un orden lógico, ser claros y reproducibles.

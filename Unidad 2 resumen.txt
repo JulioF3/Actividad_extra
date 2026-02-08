@@ -1,0 +1,34 @@
+Unidad 2 Resumen
+
+Conceptos de programación
+Lenguaje de programación: Es un lenguaje formal que tiene sus propias reglas, sintaxis y limitaciones.
+
+Variables y constantes: Son dos tipos de contenedores que podemos utilizar, van a guardar contenido que usaremos en nuestro programa,
+las variables pueden cambiar mientras que las contantes no.
+
+Tipos de datos:
+Caracteres y cadenas de caracteres (A, /, -, b)
+Numéricos: (1, 2, 3, 4.5, -34)
+Lógicos (True, False, o, 1)
+
+Operaciones comparativas
+Nos permiten comparar datos devolviéndonos verdadero o falso
+Igualdad: ==
+No igual: !=
+Mayor que: >
+Mayor o igual: >=
+Menor que: <
+Menor o igual: <=
+
+Estructuras de control de flujo
+Controlan cuando y porque se ejecuta una instrucción, pueden ser condicionales o ciclos.
+
+Condicionales:
+If: Se utiliza para ejecutar un código si y solo si la condición es verdadera.
+If else: Igual que el if solo que agrega una instrucción si la condición es falsa.
+else if: Se utiliza si la primera condición es falsa y se quiere agregar una o mas instrucciones.
+Switch case: Se utiliza cuando se tiene varios bloques de código y se quiere escoger uno de ellos dependiendo el valor.
+
+Bucles:
+For: Tiene la condición fija de cuantas veces se debe de repetir el código.
+While: Se repite mientras una condición se cumpla y puede ser infinitamente.

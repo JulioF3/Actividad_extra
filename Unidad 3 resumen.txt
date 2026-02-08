@@ -1,0 +1,16 @@
+Unidad 3 Resumen
+
+Controlador de versiones
+Es un programa que lleva control de todos los cambios realizados en los archivos que se desee, además de permitirnos trabajar en equipo sin sobrescribir el trabajo de otros.
+
+Git: es un sistema de control de versiones local que funciona en nuestra computadora para guardar versiones de nuestro proyecto, en el podemos crear copias de seguridad, regresar a versiones anteriores y trabajar en ramas. Algunos comandos importantes son:
+git init
+git status
+git add
+git commit
+git push
+git Branch
+
+GitHub: Es la plataforma en internet en donde podemos subir nuestros archivos de Git, nos sirve para compartir nuestro proyecto, trabajar en equipo y guardar nuestro proyecto en la nube.
+
+ 
